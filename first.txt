@@ -1,0 +1,2 @@
+git init -command is used to intialize git repository
+git hub is a platform for hosting git repositories
